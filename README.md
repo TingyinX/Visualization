@@ -1,3 +1,3 @@
 # Visualization
 
-A collection of various types of plots useful in gaining insight for research and projects
+A collection of various types of plots useful in gaining insights for research and other projects
